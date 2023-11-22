@@ -3,6 +3,6 @@ A while back I had applied for a job and was really hoping to get it. I had move
 
 This python script scrapes Linkedin for the Transportation Operations Support Specialist position from Milestone Technologies in Los Angeles and if the job is available then it will send an email to myself stating the job has reopened and a link to the job search.
 
-![Example Output]([https://myoctocat.com/assets/images/base-octocat.svg](https://github.com/mlyhoops/job_search/blob/main/Example%20output.png)https://github.com/mlyhoops/job_search/blob/main/Example%20output.png)
+![Example Output]([https://github.com/mlyhoops/job_search/blob/main/Example%20output.png](https://github.com/mlyhoops/job_search/blob/main/Example%20output.png)https://github.com/mlyhoops/job_search/blob/main/Example%20output.png)
 
 ![Example Email]([https://myoctocat.com/assets/images/base-octocat.svg](https://github.com/mlyhoops/job_search/blob/main/Example%20Email%20to%20myself.png)
