@@ -3,6 +3,8 @@ A while back I had applied for a job and was really hoping to get it. I had move
 
 This python script scrapes Linkedin for the Transportation Operations Support Specialist position from Milestone Technologies in Los Angeles and if the job is available then it will send an email to myself stating the job has reopened and a link to the job search.
 
+Below is an example of me testing it out on a job that is already available.
+
 
 ![Example output](https://github.com/mlyhoops/job_search/assets/3414753/19b20987-f267-4431-8106-9ecb1eeda61a)
 
