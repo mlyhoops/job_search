@@ -9,3 +9,6 @@ Below is an example of me testing it out on a job that is already available.
 ![Example output](https://github.com/mlyhoops/job_search/assets/3414753/19b20987-f267-4431-8106-9ecb1eeda61a)
 
 ![Example Email to myself](https://github.com/mlyhoops/job_search/assets/3414753/f9e455f0-ebaa-48cd-846f-cbf6d8be266c)
+
+
+# As an update, this script worked perfectly and I actually ended up getting the job! 
